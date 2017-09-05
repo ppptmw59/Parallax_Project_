@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="232px" height="188px" viewBox="0 0 232 188" enable-background="new 0 0 232 188" xml:space="preserve">
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="-620.335" cy="133.1836" r="123.9805" gradientTransform="matrix(1 0 0 1 723.6406 -44.9453)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.2585" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<circle fill="url(#SVGID_1_)" cx="103.306" cy="88.238" r="67.695"/>
+	
+		<radialGradient id="SVGID_2_" cx="-620.335" cy="133.1836" r="123.9805" gradientTransform="matrix(1 0 0 1 723.6406 -44.9453)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.2585" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<circle fill="url(#SVGID_2_)" cx="103.306" cy="88.238" r="67.695"/>
+</g>
+<radialGradient id="SVGID_3_" cx="-556.8486" cy="117.5703" r="71.4704" gradientTransform="matrix(1 0 0 1 723.6406 -44.9453)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.1662" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</radialGradient>
+<circle fill="url(#SVGID_3_)" cx="166.792" cy="72.625" r="39.024"/>
+<g>
+	<text transform="matrix(1 0 0 1 41.4316 86.0801)" font-family="'BoonJot-Regular'" font-size="27">การเกิดแหล่งน้ำ</text>
+</g>
+</svg>
